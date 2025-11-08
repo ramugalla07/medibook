@@ -1,0 +1,5 @@
+{
+  "name": "MediBook - Healthcare Appointment System",
+  "description": "A modern, responsive web application for browsing doctors and booking healthcare appointments, powered by React and Google Gemini.",
+  "requestFramePermissions": []
+}
